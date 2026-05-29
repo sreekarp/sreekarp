@@ -1,6 +1,6 @@
 # Hey, I'm Sreekar 👋
 
-Machine Learning Engineer focused on **agentic AI systems** — building LLMs that don't just respond, but reason, plan, fetch, and act.
+Machine Learning Engineer focused on **agentic AI systems** — building LLM systems that don't just respond, but reason, plan, fetch, and act.
 
 Currently @ **Sandvik**, building an agentic LLM platform on Azure for automated CNC post-processor generation — session-scoped RAG, tool orchestration, end-to-end Terraform deployment.
 
